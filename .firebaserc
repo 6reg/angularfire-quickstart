@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "read-me-a-sam-harris-quote": {
+      "hosting": {
+        "angularFire-quickstart": [
+          "read-me-a-sam-harris-quote"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "staging": "angularfire-quickstart-214b4"
+  }
+}
